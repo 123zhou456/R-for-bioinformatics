@@ -1,5 +1,5 @@
 ---
-title: "Machine learning basics"
+title: "R for bioinformatics, data summarisation and statistics"
 subtitle: "HUST Bioinformatics course series"
 author: "Wei-Hua Chen (CC BY-NC 4.0)"
 institute: "HUST, China"
